@@ -11,7 +11,12 @@ A deep learning project designed to classify potato leaf diseases, offering an e
 - **Objective**: Detect and classify potato leaf diseases into the following categories:  
   - Healthy  
   - Late Blight  
-  - Early Blight  
+  - Early Blight
+  - Bactrial wilt
+  - nemotade
+  - pests
+  - virus
+  - pythophthora
 - **Model**: Built using the **EfficientNetB0** architecture, known for its balance of speed and accuracy.  
 - **Backend**: Deployed with **FastAPI**, ensuring fast, reliable API responses for real-time disease detection.  
 - **Frontend**: A dynamic and responsive web interface built using **React.js**, allowing users to upload leaf images effortlessly.  
